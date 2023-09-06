@@ -10,7 +10,7 @@ The project uses a dataset containing a variety of images, including both human 
 
 ## Project Tasks
 
-In this project, you will:
+In this project, We Did:
 
 1. **Data Exploration**: Explore the dataset to understand its content and structure.
 
